@@ -8,7 +8,10 @@ this project foucus on simulating a realistic workflow to refactor your previous
 
 ### Files used
 bikeshare.py
-
+chicago.csv
+washington.csv
+new_york.csv
+.gitignore
 ### Credits
 thanks to udacity instructors and reviewers
 
