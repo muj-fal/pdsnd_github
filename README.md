@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
-
+22/5/2020
 ### Project Title
-Replace the Project Title
+post your work on github
 
 ### Description
-Describe what your project is about and what it does
+this project foucus on simulating a realistic workflow to refactor your previous BikeShare project using Git.
 
 ### Files used
-Include the files used
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+thanks to udacity instructors and reviewers
 
