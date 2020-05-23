@@ -187,8 +187,8 @@ def View_data(df):
         i = 0
         choice=input('enter yes to show data or no to not show data \n')
         if choice =='yes':
-                print(df.iloc[i:i+5])
-                i +=5
+                print(df.iloc[i:i+10])
+                i +=10
                 
         else:
                 break
